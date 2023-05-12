@@ -10,5 +10,5 @@ There is one file for each wavefunction and the color of the heatmap can be chan
 
 **To Summarize:**
 ## Content:
-- 4 `.py` Python code files for 4 separate python programms, one for each Hydrogen mode.
-- 1 `.ipynb` Jupyter Notebook file for 1 Jupyter Notebook including all code.
+- 4 `.py` Python code files for 4 separate programms, one for each Hydrogen mode.
+- 1 `.ipynb` Jupyter Notebook file including all code.
